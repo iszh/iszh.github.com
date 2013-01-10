@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title:帅振华 
+tagline: 专注于质量改进
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Read [中括号里放的是超链接Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+## 最新的更新
 
 In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
+    title : My Blog 这里可以放置代码=)
     
     author :
       name : Name Lastname
