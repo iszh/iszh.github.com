@@ -1,6 +1,6 @@
 ---
 layout: page
-title:帅振华 
+title:帅振华--again 
 tagline: 专注于质量改进
 ---
 {% include JB/setup %}
