@@ -7,7 +7,7 @@ tagline: 专注于质量改进
 
 Read [中括号里放的是超链接Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+问题还包括中文即使以UTF-8输入，但浏览器还是解析为GB2312Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## 最新的更新
 
