@@ -1,6 +1,6 @@
 ---
 layout: page
-title:帅振华--again 
+title:帅振华差不多应该可以了吧 
 tagline: 专注于质量改进
 ---
 {% include JB/setup %}
