@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 ---
 layout: post
 tags : [备查]
 ---
-
-
-=======
->>>>>>> blog/master
 #　Markdown 语法快速索引
 
 - 区块

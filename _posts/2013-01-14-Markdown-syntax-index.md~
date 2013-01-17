@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 ---
 layout: post
 tags : [备查]
 ---
-{% include JB/setup %}
 
+
+=======
+>>>>>>> blog/master
 #　Markdown 语法快速索引
 
 - 区块

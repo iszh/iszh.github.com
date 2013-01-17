@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 ---
 layout: post
-tags : [备杳]
+tags : [备查]
 ---
 
-
-
-=======
->>>>>>> blog/master
 Markdown: Syntax
 ================
 

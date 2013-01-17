@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 ---
 layout: post
 tags : [备查]
 ---
-
-
-=======
-<< [访问 Wow!Ubuntu](http://wowubuntu.com)
->>>>>>> blog/master
 
 **NOTE:** This is Simplelified  Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to [Markdown: Syntax][eng-doc].
 

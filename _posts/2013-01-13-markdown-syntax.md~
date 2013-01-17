@@ -1,10 +1,13 @@
+<<<<<<< HEAD
 ---
 layout: post
 tags : [备杳]
 ---
-{% include JB/setup %}
 
 
+
+=======
+>>>>>>> blog/master
 Markdown: Syntax
 ================
 

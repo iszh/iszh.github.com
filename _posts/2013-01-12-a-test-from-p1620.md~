@@ -1,9 +1,27 @@
+<<<<<<< HEAD
 ---
 layout: post
 tags : [测试]
 ---
-{% include JB/setup %}
+
 
 这是从家里的电脑上发出的文章，主要为了测试win7下cygwin的发出效果，
 
 至少有一点，如果修改了组策略表中的用户默认工作目录（原本是为 cmd  而用的），是会影响cygwin安装后的工作目录，cygwin是会读取注册表中的“易变参数”的。
+=======
+test
+==================
+
+uiuiu
+---------------
+
+khkhkh
+ljjljlj
+
+
+jljk
+
+jljlj
+
+khkh***jjlj***khhkh
+>>>>>>> blog/master

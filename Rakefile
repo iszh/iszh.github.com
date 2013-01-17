@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 task :default => :generate
 
 desc 'Create new post with rake "post[post-name]"'
@@ -368,4 +367,3 @@ end
 
 #Load custom rake scripts
 Dir['_rake/*.rake'].each { |r| load r }
->>>>>>> blog/master
