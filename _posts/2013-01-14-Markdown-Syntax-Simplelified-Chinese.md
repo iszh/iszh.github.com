@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 ---
 layout: post
 tags : [备查]
 ---
 
 
+=======
+<< [访问 Wow!Ubuntu](http://wowubuntu.com)
+>>>>>>> blog/master
 
 **NOTE:** This is Simplelified  Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to [Markdown: Syntax][eng-doc].
 
@@ -758,4 +762,8 @@ Mac 平台
 
 * [Sublime Text 2](http://www.sublimetext.com/2) + [MarkdownEditing](http://ttscoff.github.com/MarkdownEditing/) / [教程](http://lucifr.com/2012/07/12/markdownediting-for-sublime-text-2/)
 
+<<<<<<< HEAD
 \*** 如有更好的 Markdown 免费编辑器推荐，请到[这里反馈](https://gitcafe.com/riku/Markdown-Syntax-CN/tickets/1)，谢谢！
+=======
+\*** 如有更好的 Markdown 免费编辑器推荐，请到[这里反馈](https://gitcafe.com/riku/Markdown-Syntax-CN/tickets/1)，谢谢！
+>>>>>>> blog/master

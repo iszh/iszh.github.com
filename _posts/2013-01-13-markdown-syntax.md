@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: post
 tags : [备杳]
@@ -5,6 +6,8 @@ tags : [备杳]
 
 
 
+=======
+>>>>>>> blog/master
 Markdown: Syntax
 ================
 
