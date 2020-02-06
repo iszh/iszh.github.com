@@ -53,6 +53,7 @@ server {
           proxy_set_header Upgrade $http_upgrade;
           proxy_set_header Connection "upgrade";
           proxy_set_header Host $http_host;
+	  proxy_ssl_session_reuse off;
           proxy_intercept_errors on;
           if ($http_upgrade = "websocket" ){
              proxy_pass http://127.0.0.1:10000;
